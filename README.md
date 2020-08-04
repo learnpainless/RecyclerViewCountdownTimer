@@ -19,3 +19,7 @@ Instead of CountdownTimer/TimerTask app performs count down operation using Runn
 
 ## Reasoning
 Motivation of the application is to have individual timer for each row, however recycle the timer as same logic as view recycling, so that there won't be peak memory usage and leading to impact on performance.
+
+Also read explained tutorial below
+
+## [Multiple count down timers in RecyclerView flickering when scrolled](https://learnpainless.com/android/multiple-count-down-timers-recyclerview-flickering-when-scrolled/)
