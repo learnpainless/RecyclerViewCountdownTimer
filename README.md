@@ -1,7 +1,7 @@
 # RecyclerViewCountdownTimer
 Handling multiple Countdown timers in Recyclerview
 
-Inspired from various SO questions,
+Inspired from various StackOverflow questions,
 
 [Recyclerview with multiple countdown timers causes flickering](https://stackoverflow.com/questions/35860780/recyclerview-with-multiple-countdown-timers-causes-flickering)
 
