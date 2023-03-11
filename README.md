@@ -22,4 +22,4 @@ Motivation of the application is to have individual timer for each row, however 
 
 Also read explained tutorial below
 
-## [Multiple count down timers in RecyclerView flickering when scrolled](https://learnpainless.com/android/multiple-count-down-timers-recyclerview-flickering-when-scrolled/)
+## [Multiple count down timers in RecyclerView flickering when scrolled](https://learnpainless.com/multiple-count-down-timers-recyclerview-flickering-when-scrolled/)
